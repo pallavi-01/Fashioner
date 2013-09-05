@@ -7,4 +7,5 @@ Basic Steps GIt :
 5)for red ones add them into stage "git add FileName or . for all".
 6)Now finally commit all changes to local repository "git commit -m(branch name) and commit_message".
 7)Add remote repository using "git remote add remoterepo_friendlyname https://github.com/user/repo.git".
-8)finally push changes to remote repository "git push origin master". & then enter uname & password.
+9)To check remote repositories list "git remote".
+8)finally push changes to remote repository "git push origin master(branch name)". & then enter uname & password.
